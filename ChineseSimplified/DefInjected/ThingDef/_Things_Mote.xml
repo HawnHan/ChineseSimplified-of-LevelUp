@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- These are Mote ThingDefs. Remain the same, DO NOT translate them. -->
+
+  <Mote_LevelUpBeamInner.label>Mote</Mote_LevelUpBeamInner.label>
+  <Mote_LevelUpBeamMiddle.label>Mote</Mote_LevelUpBeamMiddle.label>
+  <Mote_LevelUpBeamOuter.label>Mote</Mote_LevelUpBeamOuter.label>
+  <Mote_LevelDownBeamTop.label>Mote</Mote_LevelDownBeamTop.label>
+  <Mote_LevelDownBeamBottom.label>Mote</Mote_LevelDownBeamBottom.label>
+
+
+</LanguageData>
